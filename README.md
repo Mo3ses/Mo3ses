@@ -11,5 +11,5 @@ Gist sobre mim
 
 - 🐣 [Twitter](https://twitter.com/Mo3ses_)
 - 🤖 [Reddit](https://www.reddit.com/user/Mo3ses_)
-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[#7289DA].svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[#7289DA].svg" />
+- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/[Discord].svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/[Discord].svg" />
