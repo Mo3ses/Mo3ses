@@ -5,7 +5,7 @@
 Gist sobre mim
 
 - 🔭 Atualmente trabalho na marinha;
-- 🌱 Estou aprendendo todo dia, atualmente estudo Java;
+- 🌱 Estou aprendendo todo dia, atualmente estudo Java.
 
 ### Onde você pode me achar
 
