@@ -4,7 +4,7 @@
 
 Gist sobre mim
 
-- 🔭 Atualmente trabalho na marinha;
+- 🔭 Atualmente procuro estágio;
 - 🌱 Estou aprendendo todo dia, atualmente estudo C#.
 
 ### Onde você pode me achar
