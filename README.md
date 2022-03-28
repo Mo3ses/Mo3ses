@@ -5,7 +5,7 @@ Meu nomé é Moisés Luis,
 Estudante de Sistemas de Informação.
 
 - 🔭 Atualmente procuro estágio;
-- 🌱 Estou aprendendo todo dia, atualmente estudo JavaScript e C#.
+- 🌱 Estou aprendendo todo dia, atualmente estudo Angular e C#.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mo3ses&show_icons=true&theme=prussian"/>
