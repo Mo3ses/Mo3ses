@@ -4,7 +4,7 @@ Meu nomé é Moisés Luis,
 
 Estudante de Sistemas de Informação.
 
-- 🔭 Atualmente procuro estágio;
+- 🔭 Atualmente Trabalho na Stefanini;
 - 🌱 Estou aprendendo todo dia, atualmente estudo Angular e C#.
 
 <div>
